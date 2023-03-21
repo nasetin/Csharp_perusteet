@@ -1,0 +1,14 @@
+C:\Users\sasu.hujanen\source\repos\Datatypes\Datatypes\bin\Debug\netcoreapp3.1\Datatypes.exe
+C:\Users\sasu.hujanen\source\repos\Datatypes\Datatypes\bin\Debug\netcoreapp3.1\Datatypes.deps.json
+C:\Users\sasu.hujanen\source\repos\Datatypes\Datatypes\bin\Debug\netcoreapp3.1\Datatypes.runtimeconfig.json
+C:\Users\sasu.hujanen\source\repos\Datatypes\Datatypes\bin\Debug\netcoreapp3.1\Datatypes.runtimeconfig.dev.json
+C:\Users\sasu.hujanen\source\repos\Datatypes\Datatypes\bin\Debug\netcoreapp3.1\Datatypes.dll
+C:\Users\sasu.hujanen\source\repos\Datatypes\Datatypes\bin\Debug\netcoreapp3.1\Datatypes.pdb
+C:\Users\sasu.hujanen\source\repos\Datatypes\Datatypes\obj\Debug\netcoreapp3.1\Datatypes.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\source\repos\Datatypes\Datatypes\obj\Debug\netcoreapp3.1\Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasu.hujanen\source\repos\Datatypes\Datatypes\obj\Debug\netcoreapp3.1\Datatypes.AssemblyInfoInputs.cache
+C:\Users\sasu.hujanen\source\repos\Datatypes\Datatypes\obj\Debug\netcoreapp3.1\Datatypes.AssemblyInfo.cs
+C:\Users\sasu.hujanen\source\repos\Datatypes\Datatypes\obj\Debug\netcoreapp3.1\Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\source\repos\Datatypes\Datatypes\obj\Debug\netcoreapp3.1\Datatypes.dll
+C:\Users\sasu.hujanen\source\repos\Datatypes\Datatypes\obj\Debug\netcoreapp3.1\Datatypes.pdb
+C:\Users\sasu.hujanen\source\repos\Datatypes\Datatypes\obj\Debug\netcoreapp3.1\Datatypes.genruntimeconfig.cache
