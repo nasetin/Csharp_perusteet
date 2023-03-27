@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä4palkka\tehtävä4palkka\bin\Debug\tehtävä4palkka.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä4palkka\tehtävä4palkka\bin\Debug\tehtävä4palkka.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä4palkka\tehtävä4palkka\bin\Debug\tehtävä4palkka.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä4palkka\tehtävä4palkka\obj\Debug\tehtävä4palkka.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä4palkka\tehtävä4palkka\obj\Debug\tehtävä4palkka.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä4palkka\tehtävä4palkka\obj\Debug\tehtävä4palkka.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä4palkka\tehtävä4palkka\obj\Debug\tehtävä4palkka.pdb

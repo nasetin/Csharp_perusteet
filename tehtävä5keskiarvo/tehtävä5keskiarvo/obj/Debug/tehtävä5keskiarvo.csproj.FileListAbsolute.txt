@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä5keskiarvo\tehtävä5keskiarvo\bin\Debug\tehtävä5keskiarvo.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä5keskiarvo\tehtävä5keskiarvo\bin\Debug\tehtävä5keskiarvo.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä5keskiarvo\tehtävä5keskiarvo\bin\Debug\tehtävä5keskiarvo.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä5keskiarvo\tehtävä5keskiarvo\obj\Debug\tehtävä5keskiarvo.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä5keskiarvo\tehtävä5keskiarvo\obj\Debug\tehtävä5keskiarvo.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä5keskiarvo\tehtävä5keskiarvo\obj\Debug\tehtävä5keskiarvo.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä5keskiarvo\tehtävä5keskiarvo\obj\Debug\tehtävä5keskiarvo.pdb

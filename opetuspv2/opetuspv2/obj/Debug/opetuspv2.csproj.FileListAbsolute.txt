@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\opetuspv2\opetuspv2\obj\Debug\opetuspv2.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\opetuspv2\opetuspv2\obj\Debug\opetuspv2.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\opetuspv2\opetuspv2\bin\Debug\opetuspv2.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\opetuspv2\opetuspv2\bin\Debug\opetuspv2.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\opetuspv2\opetuspv2\bin\Debug\opetuspv2.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\opetuspv2\opetuspv2\obj\Debug\opetuspv2.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\opetuspv2\opetuspv2\obj\Debug\opetuspv2.pdb

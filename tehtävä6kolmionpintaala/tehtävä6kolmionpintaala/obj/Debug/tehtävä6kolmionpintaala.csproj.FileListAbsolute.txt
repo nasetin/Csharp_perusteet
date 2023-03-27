@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä6kolmionpintaala\tehtävä6kolmionpintaala\bin\Debug\tehtävä6kolmionpintaala.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä6kolmionpintaala\tehtävä6kolmionpintaala\bin\Debug\tehtävä6kolmionpintaala.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä6kolmionpintaala\tehtävä6kolmionpintaala\bin\Debug\tehtävä6kolmionpintaala.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä6kolmionpintaala\tehtävä6kolmionpintaala\obj\Debug\tehtävä6kolmionpintaala.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä6kolmionpintaala\tehtävä6kolmionpintaala\obj\Debug\tehtävä6kolmionpintaala.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä6kolmionpintaala\tehtävä6kolmionpintaala\obj\Debug\tehtävä6kolmionpintaala.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä6kolmionpintaala\tehtävä6kolmionpintaala\obj\Debug\tehtävä6kolmionpintaala.pdb
