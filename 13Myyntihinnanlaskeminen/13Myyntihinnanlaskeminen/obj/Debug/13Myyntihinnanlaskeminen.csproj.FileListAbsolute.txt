@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\13Myyntihinnanlaskeminen\13Myyntihinnanlaskeminen\bin\Debug\13Myyntihinnanlaskeminen.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\13Myyntihinnanlaskeminen\13Myyntihinnanlaskeminen\bin\Debug\13Myyntihinnanlaskeminen.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\13Myyntihinnanlaskeminen\13Myyntihinnanlaskeminen\bin\Debug\13Myyntihinnanlaskeminen.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\13Myyntihinnanlaskeminen\13Myyntihinnanlaskeminen\obj\Debug\13Myyntihinnanlaskeminen.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\13Myyntihinnanlaskeminen\13Myyntihinnanlaskeminen\obj\Debug\13Myyntihinnanlaskeminen.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\13Myyntihinnanlaskeminen\13Myyntihinnanlaskeminen\obj\Debug\13Myyntihinnanlaskeminen.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\13Myyntihinnanlaskeminen\13Myyntihinnanlaskeminen\obj\Debug\13Myyntihinnanlaskeminen.pdb

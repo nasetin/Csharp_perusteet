@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\15Luvunarvaus\15Luvunarvaus\bin\Debug\15Luvunarvaus.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\15Luvunarvaus\15Luvunarvaus\bin\Debug\15Luvunarvaus.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\15Luvunarvaus\15Luvunarvaus\bin\Debug\15Luvunarvaus.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\15Luvunarvaus\15Luvunarvaus\obj\Debug\15Luvunarvaus.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\15Luvunarvaus\15Luvunarvaus\obj\Debug\15Luvunarvaus.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\15Luvunarvaus\15Luvunarvaus\obj\Debug\15Luvunarvaus.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\15Luvunarvaus\15Luvunarvaus\obj\Debug\15Luvunarvaus.pdb

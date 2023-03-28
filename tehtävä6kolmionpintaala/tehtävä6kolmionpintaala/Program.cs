@@ -29,6 +29,9 @@ namespace tehtävä6kolmionpintaala
             pintaAla = kanta * korkeus / 2d;
             Console.WriteLine($"Kolmion pinta-ala on: {pintaAla}");
 
+            // Pysäytetään sovellus
+            Console.WriteLine();
+            Console.WriteLine("Press any key to exit");
             Console.ReadKey();
 
 

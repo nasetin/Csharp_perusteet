@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\ohjausrakenne28.3\ohjausrakenne28.3\bin\Debug\ohjausrakenne28.3.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\ohjausrakenne28.3\ohjausrakenne28.3\bin\Debug\ohjausrakenne28.3.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\ohjausrakenne28.3\ohjausrakenne28.3\bin\Debug\ohjausrakenne28.3.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\ohjausrakenne28.3\ohjausrakenne28.3\obj\Debug\ohjausrakenne28.3.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\ohjausrakenne28.3\ohjausrakenne28.3\obj\Debug\ohjausrakenne28.3.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\ohjausrakenne28.3\ohjausrakenne28.3\obj\Debug\ohjausrakenne28.3.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\ohjausrakenne28.3\ohjausrakenne28.3\obj\Debug\ohjausrakenne28.3.pdb

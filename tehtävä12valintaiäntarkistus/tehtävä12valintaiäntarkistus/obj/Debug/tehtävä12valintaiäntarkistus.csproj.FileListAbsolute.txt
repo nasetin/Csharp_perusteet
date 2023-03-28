@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä12valintaiäntarkistus\tehtävä12valintaiäntarkistus\bin\Debug\tehtävä12valintaiäntarkistus.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä12valintaiäntarkistus\tehtävä12valintaiäntarkistus\bin\Debug\tehtävä12valintaiäntarkistus.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä12valintaiäntarkistus\tehtävä12valintaiäntarkistus\bin\Debug\tehtävä12valintaiäntarkistus.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä12valintaiäntarkistus\tehtävä12valintaiäntarkistus\obj\Debug\tehtävä12valintaiäntarkistus.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä12valintaiäntarkistus\tehtävä12valintaiäntarkistus\obj\Debug\tehtävä12valintaiäntarkistus.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä12valintaiäntarkistus\tehtävä12valintaiäntarkistus\obj\Debug\tehtävä12valintaiäntarkistus.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä12valintaiäntarkistus\tehtävä12valintaiäntarkistus\obj\Debug\tehtävä12valintaiäntarkistus.pdb
