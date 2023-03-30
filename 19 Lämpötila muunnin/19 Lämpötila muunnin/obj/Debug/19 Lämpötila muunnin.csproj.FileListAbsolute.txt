@@ -1,0 +1,7 @@
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\19 Lämpötila muunnin\19 Lämpötila muunnin\obj\Debug\19 Lämpötila muunnin.csproj.AssemblyReference.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\19 Lämpötila muunnin\19 Lämpötila muunnin\obj\Debug\19 Lämpötila muunnin.csproj.CoreCompileInputs.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\19 Lämpötila muunnin\19 Lämpötila muunnin\bin\Debug\19 Lämpötila muunnin.exe.config
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\19 Lämpötila muunnin\19 Lämpötila muunnin\bin\Debug\19 Lämpötila muunnin.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\19 Lämpötila muunnin\19 Lämpötila muunnin\bin\Debug\19 Lämpötila muunnin.pdb
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\19 Lämpötila muunnin\19 Lämpötila muunnin\obj\Debug\19 Lämpötila muunnin.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\19 Lämpötila muunnin\19 Lämpötila muunnin\obj\Debug\19 Lämpötila muunnin.pdb
