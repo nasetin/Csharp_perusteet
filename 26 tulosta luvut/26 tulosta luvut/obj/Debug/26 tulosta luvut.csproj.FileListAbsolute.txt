@@ -1,0 +1,7 @@
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\26 tulosta luvut\26 tulosta luvut\bin\Debug\26 tulosta luvut.exe.config
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\26 tulosta luvut\26 tulosta luvut\bin\Debug\26 tulosta luvut.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\26 tulosta luvut\26 tulosta luvut\bin\Debug\26 tulosta luvut.pdb
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\26 tulosta luvut\26 tulosta luvut\obj\Debug\26 tulosta luvut.csproj.AssemblyReference.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\26 tulosta luvut\26 tulosta luvut\obj\Debug\26 tulosta luvut.csproj.CoreCompileInputs.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\26 tulosta luvut\26 tulosta luvut\obj\Debug\26 tulosta luvut.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\26 tulosta luvut\26 tulosta luvut\obj\Debug\26 tulosta luvut.pdb
