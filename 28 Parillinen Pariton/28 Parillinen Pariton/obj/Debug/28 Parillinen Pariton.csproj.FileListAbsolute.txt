@@ -1,0 +1,7 @@
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\28 Parillinen Pariton\28 Parillinen Pariton\bin\Debug\28 Parillinen Pariton.exe.config
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\28 Parillinen Pariton\28 Parillinen Pariton\bin\Debug\28 Parillinen Pariton.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\28 Parillinen Pariton\28 Parillinen Pariton\bin\Debug\28 Parillinen Pariton.pdb
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\28 Parillinen Pariton\28 Parillinen Pariton\obj\Debug\28 Parillinen Pariton.csproj.AssemblyReference.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\28 Parillinen Pariton\28 Parillinen Pariton\obj\Debug\28 Parillinen Pariton.csproj.CoreCompileInputs.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\28 Parillinen Pariton\28 Parillinen Pariton\obj\Debug\28 Parillinen Pariton.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\28 Parillinen Pariton\28 Parillinen Pariton\obj\Debug\28 Parillinen Pariton.pdb
