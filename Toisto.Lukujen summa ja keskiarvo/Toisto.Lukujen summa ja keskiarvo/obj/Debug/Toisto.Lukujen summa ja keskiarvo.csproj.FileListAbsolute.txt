@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Toisto.Lukujen summa ja keskiarvo\Toisto.Lukujen summa ja keskiarvo\bin\Debug\Toisto.Lukujen summa ja keskiarvo.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Toisto.Lukujen summa ja keskiarvo\Toisto.Lukujen summa ja keskiarvo\bin\Debug\Toisto.Lukujen summa ja keskiarvo.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Toisto.Lukujen summa ja keskiarvo\Toisto.Lukujen summa ja keskiarvo\bin\Debug\Toisto.Lukujen summa ja keskiarvo.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Toisto.Lukujen summa ja keskiarvo\Toisto.Lukujen summa ja keskiarvo\obj\Debug\Toisto.Lukujen summa ja keskiarvo.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Toisto.Lukujen summa ja keskiarvo\Toisto.Lukujen summa ja keskiarvo\obj\Debug\Toisto.Lukujen summa ja keskiarvo.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Toisto.Lukujen summa ja keskiarvo\Toisto.Lukujen summa ja keskiarvo\obj\Debug\Toisto.Lukujen summa ja keskiarvo.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Toisto.Lukujen summa ja keskiarvo\Toisto.Lukujen summa ja keskiarvo\obj\Debug\Toisto.Lukujen summa ja keskiarvo.pdb
