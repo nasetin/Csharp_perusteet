@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\toisto kertymä\toisto kertymä\bin\Debug\toisto kertymä.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\toisto kertymä\toisto kertymä\bin\Debug\toisto kertymä.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\toisto kertymä\toisto kertymä\bin\Debug\toisto kertymä.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\toisto kertymä\toisto kertymä\obj\Debug\toisto kertymä.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\toisto kertymä\toisto kertymä\obj\Debug\toisto kertymä.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\toisto kertymä\toisto kertymä\obj\Debug\toisto kertymä.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\toisto kertymä\toisto kertymä\obj\Debug\toisto kertymä.pdb
