@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä 28 parillinen vai pariton (4.4yhdessä)\tehtävä 28 parillinen vai pariton (4.4yhdessä)\bin\Debug\tehtävä 28 parillinen vai pariton (4.4yhdessä).exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä 28 parillinen vai pariton (4.4yhdessä)\tehtävä 28 parillinen vai pariton (4.4yhdessä)\bin\Debug\tehtävä 28 parillinen vai pariton (4.4yhdessä).exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä 28 parillinen vai pariton (4.4yhdessä)\tehtävä 28 parillinen vai pariton (4.4yhdessä)\bin\Debug\tehtävä 28 parillinen vai pariton (4.4yhdessä).pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä 28 parillinen vai pariton (4.4yhdessä)\tehtävä 28 parillinen vai pariton (4.4yhdessä)\obj\Debug\tehtävä 28 parillinen vai pariton (4.4yhdessä).csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä 28 parillinen vai pariton (4.4yhdessä)\tehtävä 28 parillinen vai pariton (4.4yhdessä)\obj\Debug\tehtävä 28 parillinen vai pariton (4.4yhdessä).csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä 28 parillinen vai pariton (4.4yhdessä)\tehtävä 28 parillinen vai pariton (4.4yhdessä)\obj\Debug\tehtävä 28 parillinen vai pariton (4.4yhdessä).exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\tehtävä 28 parillinen vai pariton (4.4yhdessä)\tehtävä 28 parillinen vai pariton (4.4yhdessä)\obj\Debug\tehtävä 28 parillinen vai pariton (4.4yhdessä).pdb

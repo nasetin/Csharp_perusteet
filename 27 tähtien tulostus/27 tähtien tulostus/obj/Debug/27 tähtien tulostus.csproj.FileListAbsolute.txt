@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\27 tähtien tulostus\27 tähtien tulostus\bin\Debug\27 tähtien tulostus.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\27 tähtien tulostus\27 tähtien tulostus\bin\Debug\27 tähtien tulostus.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\27 tähtien tulostus\27 tähtien tulostus\bin\Debug\27 tähtien tulostus.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\27 tähtien tulostus\27 tähtien tulostus\obj\Debug\27 tähtien tulostus.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\27 tähtien tulostus\27 tähtien tulostus\obj\Debug\27 tähtien tulostus.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\27 tähtien tulostus\27 tähtien tulostus\obj\Debug\27 tähtien tulostus.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\27 tähtien tulostus\27 tähtien tulostus\obj\Debug\27 tähtien tulostus.pdb

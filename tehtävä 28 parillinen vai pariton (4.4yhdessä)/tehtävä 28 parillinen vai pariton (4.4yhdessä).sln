@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tehtävä 28 parillinen vai pariton (4.4yhdessä)", "tehtävä 28 parillinen vai pariton (4.4yhdessä)\tehtävä 28 parillinen vai pariton (4.4yhdessä).csproj", "{956DC7CF-0FC6-4A32-B49A-14E236340BB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{956DC7CF-0FC6-4A32-B49A-14E236340BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{956DC7CF-0FC6-4A32-B49A-14E236340BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{956DC7CF-0FC6-4A32-B49A-14E236340BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{956DC7CF-0FC6-4A32-B49A-14E236340BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E87C2C1-C35E-451A-BBFC-78FF81D2950E}
+	EndGlobalSection
+EndGlobal
