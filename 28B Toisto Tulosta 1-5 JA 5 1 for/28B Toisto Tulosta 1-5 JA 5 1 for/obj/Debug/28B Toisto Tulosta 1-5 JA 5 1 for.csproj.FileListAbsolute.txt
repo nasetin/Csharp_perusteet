@@ -1,0 +1,7 @@
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\28B Toisto Tulosta 1-5 JA 5 1 for\28B Toisto Tulosta 1-5 JA 5 1 for\bin\Debug\28B Toisto Tulosta 1-5 JA 5 1 for.exe.config
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\28B Toisto Tulosta 1-5 JA 5 1 for\28B Toisto Tulosta 1-5 JA 5 1 for\bin\Debug\28B Toisto Tulosta 1-5 JA 5 1 for.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\28B Toisto Tulosta 1-5 JA 5 1 for\28B Toisto Tulosta 1-5 JA 5 1 for\bin\Debug\28B Toisto Tulosta 1-5 JA 5 1 for.pdb
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\28B Toisto Tulosta 1-5 JA 5 1 for\28B Toisto Tulosta 1-5 JA 5 1 for\obj\Debug\28B Toisto Tulosta 1-5 JA 5 1 for.csproj.AssemblyReference.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\28B Toisto Tulosta 1-5 JA 5 1 for\28B Toisto Tulosta 1-5 JA 5 1 for\obj\Debug\28B Toisto Tulosta 1-5 JA 5 1 for.csproj.CoreCompileInputs.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\28B Toisto Tulosta 1-5 JA 5 1 for\28B Toisto Tulosta 1-5 JA 5 1 for\obj\Debug\28B Toisto Tulosta 1-5 JA 5 1 for.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\28B Toisto Tulosta 1-5 JA 5 1 for\28B Toisto Tulosta 1-5 JA 5 1 for\obj\Debug\28B Toisto Tulosta 1-5 JA 5 1 for.pdb
