@@ -1,0 +1,7 @@
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp for ja switch\Csharp for ja switch\bin\Debug\Csharp for ja switch.exe.config
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp for ja switch\Csharp for ja switch\bin\Debug\Csharp for ja switch.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp for ja switch\Csharp for ja switch\bin\Debug\Csharp for ja switch.pdb
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp for ja switch\Csharp for ja switch\obj\Debug\Csharp for ja switch.csproj.AssemblyReference.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp for ja switch\Csharp for ja switch\obj\Debug\Csharp for ja switch.csproj.CoreCompileInputs.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp for ja switch\Csharp for ja switch\obj\Debug\Csharp for ja switch.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp for ja switch\Csharp for ja switch\obj\Debug\Csharp for ja switch.pdb
