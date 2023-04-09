@@ -1,0 +1,7 @@
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Salasana if else ja while\Csharp Salasana if else ja while\bin\Debug\Csharp Salasana if else ja while.exe.config
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Salasana if else ja while\Csharp Salasana if else ja while\bin\Debug\Csharp Salasana if else ja while.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Salasana if else ja while\Csharp Salasana if else ja while\bin\Debug\Csharp Salasana if else ja while.pdb
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Salasana if else ja while\Csharp Salasana if else ja while\obj\Debug\Csharp Salasana if else ja while.csproj.AssemblyReference.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Salasana if else ja while\Csharp Salasana if else ja while\obj\Debug\Csharp Salasana if else ja while.csproj.CoreCompileInputs.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Salasana if else ja while\Csharp Salasana if else ja while\obj\Debug\Csharp Salasana if else ja while.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Salasana if else ja while\Csharp Salasana if else ja while\obj\Debug\Csharp Salasana if else ja while.pdb
