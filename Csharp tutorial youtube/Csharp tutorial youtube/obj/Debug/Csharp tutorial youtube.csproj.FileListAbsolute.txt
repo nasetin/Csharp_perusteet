@@ -1,0 +1,7 @@
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp tutorial youtube\Csharp tutorial youtube\bin\Debug\Csharp tutorial youtube.exe.config
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp tutorial youtube\Csharp tutorial youtube\bin\Debug\Csharp tutorial youtube.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp tutorial youtube\Csharp tutorial youtube\bin\Debug\Csharp tutorial youtube.pdb
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp tutorial youtube\Csharp tutorial youtube\obj\Debug\Csharp tutorial youtube.csproj.AssemblyReference.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp tutorial youtube\Csharp tutorial youtube\obj\Debug\Csharp tutorial youtube.csproj.CoreCompileInputs.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp tutorial youtube\Csharp tutorial youtube\obj\Debug\Csharp tutorial youtube.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp tutorial youtube\Csharp tutorial youtube\obj\Debug\Csharp tutorial youtube.pdb
