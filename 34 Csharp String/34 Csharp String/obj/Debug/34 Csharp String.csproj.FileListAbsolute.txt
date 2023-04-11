@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\34 Csharp String\34 Csharp String\bin\Debug\34 Csharp String.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\34 Csharp String\34 Csharp String\bin\Debug\34 Csharp String.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\34 Csharp String\34 Csharp String\bin\Debug\34 Csharp String.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\34 Csharp String\34 Csharp String\obj\Debug\34 Csharp String.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\34 Csharp String\34 Csharp String\obj\Debug\34 Csharp String.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\34 Csharp String\34 Csharp String\obj\Debug\34 Csharp String.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\34 Csharp String\34 Csharp String\obj\Debug\34 Csharp String.pdb
