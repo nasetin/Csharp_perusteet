@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\33 Csharp String Merkkien tulostus\33 Csharp String Merkkien tulostus\bin\Debug\33 Csharp String Merkkien tulostus.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\33 Csharp String Merkkien tulostus\33 Csharp String Merkkien tulostus\bin\Debug\33 Csharp String Merkkien tulostus.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\33 Csharp String Merkkien tulostus\33 Csharp String Merkkien tulostus\bin\Debug\33 Csharp String Merkkien tulostus.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\33 Csharp String Merkkien tulostus\33 Csharp String Merkkien tulostus\obj\Debug\33 Csharp String Merkkien tulostus.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\33 Csharp String Merkkien tulostus\33 Csharp String Merkkien tulostus\obj\Debug\33 Csharp String Merkkien tulostus.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\33 Csharp String Merkkien tulostus\33 Csharp String Merkkien tulostus\obj\Debug\33 Csharp String Merkkien tulostus.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\33 Csharp String Merkkien tulostus\33 Csharp String Merkkien tulostus\obj\Debug\33 Csharp String Merkkien tulostus.pdb

@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Päivän6harjoitus\Päivän6harjoitus\bin\Debug\Päivän6harjoitus.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Päivän6harjoitus\Päivän6harjoitus\bin\Debug\Päivän6harjoitus.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Päivän6harjoitus\Päivän6harjoitus\bin\Debug\Päivän6harjoitus.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Päivän6harjoitus\Päivän6harjoitus\obj\Debug\Päivän6harjoitus.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Päivän6harjoitus\Päivän6harjoitus\obj\Debug\Päivän6harjoitus.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Päivän6harjoitus\Päivän6harjoitus\obj\Debug\Päivän6harjoitus.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Päivän6harjoitus\Päivän6harjoitus\obj\Debug\Päivän6harjoitus.pdb
