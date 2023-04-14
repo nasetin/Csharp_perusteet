@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34D  String Etsi kirjaimia merkkijonosta", "34D  String Etsi kirjaimia merkkijonosta\34D  String Etsi kirjaimia merkkijonosta.csproj", "{0325B0E3-2867-4F24-81CB-AF1E1408CFBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0325B0E3-2867-4F24-81CB-AF1E1408CFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0325B0E3-2867-4F24-81CB-AF1E1408CFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0325B0E3-2867-4F24-81CB-AF1E1408CFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0325B0E3-2867-4F24-81CB-AF1E1408CFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55754DE2-AA30-40BC-BDEE-147B0A47C219}
+	EndGlobalSection
+EndGlobal

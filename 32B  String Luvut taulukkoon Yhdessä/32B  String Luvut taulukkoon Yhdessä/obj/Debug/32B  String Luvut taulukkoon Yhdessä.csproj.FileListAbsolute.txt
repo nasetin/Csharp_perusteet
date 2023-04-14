@@ -1,0 +1,7 @@
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\32B  String Luvut taulukkoon Yhdessä\32B  String Luvut taulukkoon Yhdessä\bin\Debug\32B  String Luvut taulukkoon Yhdessä.exe.config
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\32B  String Luvut taulukkoon Yhdessä\32B  String Luvut taulukkoon Yhdessä\bin\Debug\32B  String Luvut taulukkoon Yhdessä.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\32B  String Luvut taulukkoon Yhdessä\32B  String Luvut taulukkoon Yhdessä\bin\Debug\32B  String Luvut taulukkoon Yhdessä.pdb
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\32B  String Luvut taulukkoon Yhdessä\32B  String Luvut taulukkoon Yhdessä\obj\Debug\32B  String Luvut taulukkoon Yhdessä.csproj.AssemblyReference.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\32B  String Luvut taulukkoon Yhdessä\32B  String Luvut taulukkoon Yhdessä\obj\Debug\32B  String Luvut taulukkoon Yhdessä.csproj.CoreCompileInputs.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\32B  String Luvut taulukkoon Yhdessä\32B  String Luvut taulukkoon Yhdessä\obj\Debug\32B  String Luvut taulukkoon Yhdessä.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\32B  String Luvut taulukkoon Yhdessä\32B  String Luvut taulukkoon Yhdessä\obj\Debug\32B  String Luvut taulukkoon Yhdessä.pdb

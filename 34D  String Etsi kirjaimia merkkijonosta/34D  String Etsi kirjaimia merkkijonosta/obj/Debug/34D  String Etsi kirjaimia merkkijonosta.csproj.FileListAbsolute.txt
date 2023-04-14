@@ -1,0 +1,7 @@
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D  String Etsi kirjaimia merkkijonosta\34D  String Etsi kirjaimia merkkijonosta\bin\Debug\34D  String Etsi kirjaimia merkkijonosta.exe.config
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D  String Etsi kirjaimia merkkijonosta\34D  String Etsi kirjaimia merkkijonosta\bin\Debug\34D  String Etsi kirjaimia merkkijonosta.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D  String Etsi kirjaimia merkkijonosta\34D  String Etsi kirjaimia merkkijonosta\bin\Debug\34D  String Etsi kirjaimia merkkijonosta.pdb
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D  String Etsi kirjaimia merkkijonosta\34D  String Etsi kirjaimia merkkijonosta\obj\Debug\34D  String Etsi kirjaimia merkkijonosta.csproj.AssemblyReference.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D  String Etsi kirjaimia merkkijonosta\34D  String Etsi kirjaimia merkkijonosta\obj\Debug\34D  String Etsi kirjaimia merkkijonosta.csproj.CoreCompileInputs.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D  String Etsi kirjaimia merkkijonosta\34D  String Etsi kirjaimia merkkijonosta\obj\Debug\34D  String Etsi kirjaimia merkkijonosta.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D  String Etsi kirjaimia merkkijonosta\34D  String Etsi kirjaimia merkkijonosta\obj\Debug\34D  String Etsi kirjaimia merkkijonosta.pdb
