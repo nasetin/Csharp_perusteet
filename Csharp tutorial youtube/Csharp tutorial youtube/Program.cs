@@ -50,11 +50,59 @@ namespace Csharp_tutorial_youtube
 
             // Working with strings
             // \n \"
-            string phrase = "Giraffe Academy";
 
-            Console.WriteLine(phrase);
+            //string phrase = "Giraffe Academy";
+            ////               0123
+            //Console.WriteLine(phrase.Substring(phrase.IndexOf("Academy")));
 
 
+
+            // Working with numbers
+
+
+            //Console.WriteLine((4 + 2 ) * 3);
+            //Console.WriteLine(Math.Abs(-40));
+            //Console.WriteLine(Math.Pow(3, 2));
+            //Console.WriteLine(Math.Sqrt(36));
+            //Console.WriteLine(Math.Max(4, 90));
+            //Console.WriteLine(Math.Min(90, 80));
+            //Console.WriteLine(Math.Round(4.8));
+
+
+            // Getting user input
+
+            //Console.Write("Enter your name: ");
+            //string name = Console.ReadLine();
+            //Console.Write("Enter your age: ");
+            //string age = Console.ReadLine();
+            //Console.WriteLine("Hello " + name + " you are " + age + " old");
+
+            // Building a calculator
+
+            //Console.Write("Enter a number: ");
+            //double num1 = Convert.ToDouble(Console.ReadLine());
+            //Console.Write("Enter another number: ");
+            //double num2 = Convert.ToDouble(Console.ReadLine());
+
+            //Console.WriteLine(num1 + num2);
+
+            // Building a mad libs game
+
+            string color, pluralNoun, celebrity;
+
+            Console.Write("Enter a color: ");
+            color = Console.ReadLine();
+
+            Console.Write("Enter a plural noun: ");
+            pluralNoun = Console.ReadLine();
+
+            Console.Write("Enter a celebrity: ");
+            celebrity = Console.ReadLine();
+
+
+            Console.WriteLine("Roses are " + color);
+            Console.WriteLine(pluralNoun + " are blue");
+            Console.WriteLine("I love " + celebrity);
 
 
             Console.ReadKey();
