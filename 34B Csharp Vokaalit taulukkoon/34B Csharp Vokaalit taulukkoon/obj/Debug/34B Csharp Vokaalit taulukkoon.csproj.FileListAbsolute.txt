@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\34B Csharp Vokaalit taulukkoon\34B Csharp Vokaalit taulukkoon\bin\Debug\34B Csharp Vokaalit taulukkoon.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\34B Csharp Vokaalit taulukkoon\34B Csharp Vokaalit taulukkoon\bin\Debug\34B Csharp Vokaalit taulukkoon.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\34B Csharp Vokaalit taulukkoon\34B Csharp Vokaalit taulukkoon\bin\Debug\34B Csharp Vokaalit taulukkoon.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\34B Csharp Vokaalit taulukkoon\34B Csharp Vokaalit taulukkoon\obj\Debug\34B Csharp Vokaalit taulukkoon.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\34B Csharp Vokaalit taulukkoon\34B Csharp Vokaalit taulukkoon\obj\Debug\34B Csharp Vokaalit taulukkoon.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\34B Csharp Vokaalit taulukkoon\34B Csharp Vokaalit taulukkoon\obj\Debug\34B Csharp Vokaalit taulukkoon.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\34B Csharp Vokaalit taulukkoon\34B Csharp Vokaalit taulukkoon\obj\Debug\34B Csharp Vokaalit taulukkoon.pdb
