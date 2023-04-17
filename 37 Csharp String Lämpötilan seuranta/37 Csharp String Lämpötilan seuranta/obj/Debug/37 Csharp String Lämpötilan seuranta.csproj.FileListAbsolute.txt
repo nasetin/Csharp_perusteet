@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\37 Csharp String Lämpötilan seuranta\37 Csharp String Lämpötilan seuranta\bin\Debug\37 Csharp String Lämpötilan seuranta.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\37 Csharp String Lämpötilan seuranta\37 Csharp String Lämpötilan seuranta\bin\Debug\37 Csharp String Lämpötilan seuranta.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\37 Csharp String Lämpötilan seuranta\37 Csharp String Lämpötilan seuranta\bin\Debug\37 Csharp String Lämpötilan seuranta.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\37 Csharp String Lämpötilan seuranta\37 Csharp String Lämpötilan seuranta\obj\Debug\37 Csharp String Lämpötilan seuranta.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\37 Csharp String Lämpötilan seuranta\37 Csharp String Lämpötilan seuranta\obj\Debug\37 Csharp String Lämpötilan seuranta.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\37 Csharp String Lämpötilan seuranta\37 Csharp String Lämpötilan seuranta\obj\Debug\37 Csharp String Lämpötilan seuranta.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\37 Csharp String Lämpötilan seuranta\37 Csharp String Lämpötilan seuranta\obj\Debug\37 Csharp String Lämpötilan seuranta.pdb
