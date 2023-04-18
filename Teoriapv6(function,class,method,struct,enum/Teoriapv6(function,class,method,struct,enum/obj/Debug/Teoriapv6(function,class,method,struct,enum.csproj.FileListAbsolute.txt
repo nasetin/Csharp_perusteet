@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Teoriapv6(function,class,method,struct,enum\Teoriapv6(function,class,method,struct,enum\bin\Debug\Teoriapv6(function,class,method,struct,enum.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Teoriapv6(function,class,method,struct,enum\Teoriapv6(function,class,method,struct,enum\bin\Debug\Teoriapv6(function,class,method,struct,enum.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Teoriapv6(function,class,method,struct,enum\Teoriapv6(function,class,method,struct,enum\bin\Debug\Teoriapv6(function,class,method,struct,enum.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Teoriapv6(function,class,method,struct,enum\Teoriapv6(function,class,method,struct,enum\obj\Debug\Teoriapv6(function,class,method,struct,enum.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Teoriapv6(function,class,method,struct,enum\Teoriapv6(function,class,method,struct,enum\obj\Debug\Teoriapv6(function,class,method,struct,enum.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Teoriapv6(function,class,method,struct,enum\Teoriapv6(function,class,method,struct,enum\obj\Debug\Teoriapv6(function,class,method,struct,enum.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Teoriapv6(function,class,method,struct,enum\Teoriapv6(function,class,method,struct,enum\obj\Debug\Teoriapv6(function,class,method,struct,enum.pdb

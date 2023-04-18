@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\lähipv9harjoitus1olio\lähipv9harjoitus1olio\bin\Debug\lähipv9harjoitus1olio.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\lähipv9harjoitus1olio\lähipv9harjoitus1olio\bin\Debug\lähipv9harjoitus1olio.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\lähipv9harjoitus1olio\lähipv9harjoitus1olio\bin\Debug\lähipv9harjoitus1olio.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\lähipv9harjoitus1olio\lähipv9harjoitus1olio\obj\Debug\lähipv9harjoitus1olio.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\lähipv9harjoitus1olio\lähipv9harjoitus1olio\obj\Debug\lähipv9harjoitus1olio.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\lähipv9harjoitus1olio\lähipv9harjoitus1olio\obj\Debug\lähipv9harjoitus1olio.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\lähipv9harjoitus1olio\lähipv9harjoitus1olio\obj\Debug\lähipv9harjoitus1olio.pdb

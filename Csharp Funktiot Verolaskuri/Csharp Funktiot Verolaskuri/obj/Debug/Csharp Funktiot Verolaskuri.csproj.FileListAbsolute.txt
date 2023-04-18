@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp Funktiot Verolaskuri\Csharp Funktiot Verolaskuri\bin\Debug\Csharp Funktiot Verolaskuri.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp Funktiot Verolaskuri\Csharp Funktiot Verolaskuri\bin\Debug\Csharp Funktiot Verolaskuri.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp Funktiot Verolaskuri\Csharp Funktiot Verolaskuri\bin\Debug\Csharp Funktiot Verolaskuri.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp Funktiot Verolaskuri\Csharp Funktiot Verolaskuri\obj\Debug\Csharp Funktiot Verolaskuri.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp Funktiot Verolaskuri\Csharp Funktiot Verolaskuri\obj\Debug\Csharp Funktiot Verolaskuri.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp Funktiot Verolaskuri\Csharp Funktiot Verolaskuri\obj\Debug\Csharp Funktiot Verolaskuri.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp Funktiot Verolaskuri\Csharp Funktiot Verolaskuri\obj\Debug\Csharp Funktiot Verolaskuri.pdb

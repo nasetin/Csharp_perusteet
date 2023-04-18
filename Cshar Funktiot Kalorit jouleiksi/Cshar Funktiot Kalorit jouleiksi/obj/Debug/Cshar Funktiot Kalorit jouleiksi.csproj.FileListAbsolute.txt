@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Cshar Funktiot Kalorit jouleiksi\Cshar Funktiot Kalorit jouleiksi\obj\Debug\Cshar Funktiot Kalorit jouleiksi.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Cshar Funktiot Kalorit jouleiksi\Cshar Funktiot Kalorit jouleiksi\obj\Debug\Cshar Funktiot Kalorit jouleiksi.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Cshar Funktiot Kalorit jouleiksi\Cshar Funktiot Kalorit jouleiksi\bin\Debug\Cshar Funktiot Kalorit jouleiksi.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Cshar Funktiot Kalorit jouleiksi\Cshar Funktiot Kalorit jouleiksi\bin\Debug\Cshar Funktiot Kalorit jouleiksi.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Cshar Funktiot Kalorit jouleiksi\Cshar Funktiot Kalorit jouleiksi\bin\Debug\Cshar Funktiot Kalorit jouleiksi.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Cshar Funktiot Kalorit jouleiksi\Cshar Funktiot Kalorit jouleiksi\obj\Debug\Cshar Funktiot Kalorit jouleiksi.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Cshar Funktiot Kalorit jouleiksi\Cshar Funktiot Kalorit jouleiksi\obj\Debug\Cshar Funktiot Kalorit jouleiksi.pdb

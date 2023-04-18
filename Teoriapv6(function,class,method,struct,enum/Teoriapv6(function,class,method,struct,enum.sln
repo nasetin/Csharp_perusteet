@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teoriapv6(function,class,method,struct,enum", "Teoriapv6(function,class,method,struct,enum\Teoriapv6(function,class,method,struct,enum.csproj", "{91F84074-B271-481C-901F-963B08C923AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91F84074-B271-481C-901F-963B08C923AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F84074-B271-481C-901F-963B08C923AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F84074-B271-481C-901F-963B08C923AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F84074-B271-481C-901F-963B08C923AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41347A1E-345C-4384-A2B5-9A994EE87D97}
+	EndGlobalSection
+EndGlobal

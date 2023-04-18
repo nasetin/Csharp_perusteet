@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cshar Funktiot Kalorit jouleiksi", "Cshar Funktiot Kalorit jouleiksi\Cshar Funktiot Kalorit jouleiksi.csproj", "{ABACA99C-9FA2-4275-84EB-2CAE9C386FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABACA99C-9FA2-4275-84EB-2CAE9C386FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABACA99C-9FA2-4275-84EB-2CAE9C386FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABACA99C-9FA2-4275-84EB-2CAE9C386FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABACA99C-9FA2-4275-84EB-2CAE9C386FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47E34029-210D-4224-B5DC-5E6E1A85553F}
+	EndGlobalSection
+EndGlobal
