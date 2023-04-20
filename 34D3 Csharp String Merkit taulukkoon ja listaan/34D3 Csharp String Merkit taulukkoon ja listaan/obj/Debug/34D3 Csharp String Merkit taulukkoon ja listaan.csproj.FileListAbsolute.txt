@@ -1,0 +1,7 @@
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D3 Csharp String Merkit taulukkoon ja listaan\34D3 Csharp String Merkit taulukkoon ja listaan\bin\Debug\34D3 Csharp String Merkit taulukkoon ja listaan.exe.config
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D3 Csharp String Merkit taulukkoon ja listaan\34D3 Csharp String Merkit taulukkoon ja listaan\bin\Debug\34D3 Csharp String Merkit taulukkoon ja listaan.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D3 Csharp String Merkit taulukkoon ja listaan\34D3 Csharp String Merkit taulukkoon ja listaan\bin\Debug\34D3 Csharp String Merkit taulukkoon ja listaan.pdb
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D3 Csharp String Merkit taulukkoon ja listaan\34D3 Csharp String Merkit taulukkoon ja listaan\obj\Debug\34D3 Csharp String Merkit taulukkoon ja listaan.csproj.AssemblyReference.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D3 Csharp String Merkit taulukkoon ja listaan\34D3 Csharp String Merkit taulukkoon ja listaan\obj\Debug\34D3 Csharp String Merkit taulukkoon ja listaan.csproj.CoreCompileInputs.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D3 Csharp String Merkit taulukkoon ja listaan\34D3 Csharp String Merkit taulukkoon ja listaan\obj\Debug\34D3 Csharp String Merkit taulukkoon ja listaan.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D3 Csharp String Merkit taulukkoon ja listaan\34D3 Csharp String Merkit taulukkoon ja listaan\obj\Debug\34D3 Csharp String Merkit taulukkoon ja listaan.pdb
