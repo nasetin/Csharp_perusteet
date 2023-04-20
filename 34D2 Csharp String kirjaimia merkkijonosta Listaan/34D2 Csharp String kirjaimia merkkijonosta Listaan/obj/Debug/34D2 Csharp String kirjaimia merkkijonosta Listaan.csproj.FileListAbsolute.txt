@@ -1,0 +1,7 @@
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D2 Csharp String kirjaimia merkkijonosta Listaan\34D2 Csharp String kirjaimia merkkijonosta Listaan\bin\Debug\34D2 Csharp String kirjaimia merkkijonosta Listaan.exe.config
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D2 Csharp String kirjaimia merkkijonosta Listaan\34D2 Csharp String kirjaimia merkkijonosta Listaan\bin\Debug\34D2 Csharp String kirjaimia merkkijonosta Listaan.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D2 Csharp String kirjaimia merkkijonosta Listaan\34D2 Csharp String kirjaimia merkkijonosta Listaan\bin\Debug\34D2 Csharp String kirjaimia merkkijonosta Listaan.pdb
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D2 Csharp String kirjaimia merkkijonosta Listaan\34D2 Csharp String kirjaimia merkkijonosta Listaan\obj\Debug\34D2 Csharp String kirjaimia merkkijonosta Listaan.csproj.AssemblyReference.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D2 Csharp String kirjaimia merkkijonosta Listaan\34D2 Csharp String kirjaimia merkkijonosta Listaan\obj\Debug\34D2 Csharp String kirjaimia merkkijonosta Listaan.csproj.CoreCompileInputs.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D2 Csharp String kirjaimia merkkijonosta Listaan\34D2 Csharp String kirjaimia merkkijonosta Listaan\obj\Debug\34D2 Csharp String kirjaimia merkkijonosta Listaan.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\34D2 Csharp String kirjaimia merkkijonosta Listaan\34D2 Csharp String kirjaimia merkkijonosta Listaan\obj\Debug\34D2 Csharp String kirjaimia merkkijonosta Listaan.pdb
