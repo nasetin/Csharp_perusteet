@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\koulussa yhdessä 10\koulussa yhdessä 10\bin\Debug\koulussa yhdessä 10.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\koulussa yhdessä 10\koulussa yhdessä 10\bin\Debug\koulussa yhdessä 10.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\koulussa yhdessä 10\koulussa yhdessä 10\bin\Debug\koulussa yhdessä 10.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\koulussa yhdessä 10\koulussa yhdessä 10\obj\Debug\koulussa yhdessä 10.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\koulussa yhdessä 10\koulussa yhdessä 10\obj\Debug\koulussa yhdessä 10.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\koulussa yhdessä 10\koulussa yhdessä 10\obj\Debug\koulussa yhdessä 10.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\koulussa yhdessä 10\koulussa yhdessä 10\obj\Debug\koulussa yhdessä 10.pdb
