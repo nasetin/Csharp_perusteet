@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp funktiot pinta-alat ja tilavuudet\Csharp funktiot pinta-alat ja tilavuudet\bin\Debug\Csharp funktiot pinta-alat ja tilavuudet.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp funktiot pinta-alat ja tilavuudet\Csharp funktiot pinta-alat ja tilavuudet\bin\Debug\Csharp funktiot pinta-alat ja tilavuudet.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp funktiot pinta-alat ja tilavuudet\Csharp funktiot pinta-alat ja tilavuudet\bin\Debug\Csharp funktiot pinta-alat ja tilavuudet.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp funktiot pinta-alat ja tilavuudet\Csharp funktiot pinta-alat ja tilavuudet\obj\Debug\Csharp funktiot pinta-alat ja tilavuudet.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp funktiot pinta-alat ja tilavuudet\Csharp funktiot pinta-alat ja tilavuudet\obj\Debug\Csharp funktiot pinta-alat ja tilavuudet.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp funktiot pinta-alat ja tilavuudet\Csharp funktiot pinta-alat ja tilavuudet\obj\Debug\Csharp funktiot pinta-alat ja tilavuudet.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp funktiot pinta-alat ja tilavuudet\Csharp funktiot pinta-alat ja tilavuudet\obj\Debug\Csharp funktiot pinta-alat ja tilavuudet.pdb
