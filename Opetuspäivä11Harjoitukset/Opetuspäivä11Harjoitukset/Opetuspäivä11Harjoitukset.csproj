@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E4EBCF64-DF2E-489E-A010-7F17FE67D987}</ProjectGuid>
+    <ProjectGuid>{4B75BF93-5D05-4883-8CB4-B0B4D900D4B6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Csharp_funktiot_pinta_alat_ja_tilavuudet</RootNamespace>
-    <AssemblyName>Csharp funktiot pinta-alat ja tilavuudet</AssemblyName>
+    <RootNamespace>Opetuspäivä11Harjoitukset</RootNamespace>
+    <AssemblyName>Opetuspäivä11Harjoitukset</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,7 +45,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Triangle.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
