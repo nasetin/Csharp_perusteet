@@ -1,0 +1,7 @@
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Funktiot Lämpötilan muunnin\Csharp Funktiot Lämpötilan muunnin\bin\Debug\Csharp Funktiot Lämpötilan muunnin.exe.config
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Funktiot Lämpötilan muunnin\Csharp Funktiot Lämpötilan muunnin\bin\Debug\Csharp Funktiot Lämpötilan muunnin.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Funktiot Lämpötilan muunnin\Csharp Funktiot Lämpötilan muunnin\bin\Debug\Csharp Funktiot Lämpötilan muunnin.pdb
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Funktiot Lämpötilan muunnin\Csharp Funktiot Lämpötilan muunnin\obj\Debug\Csharp Funktiot Lämpötilan muunnin.csproj.AssemblyReference.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Funktiot Lämpötilan muunnin\Csharp Funktiot Lämpötilan muunnin\obj\Debug\Csharp Funktiot Lämpötilan muunnin.csproj.CoreCompileInputs.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Funktiot Lämpötilan muunnin\Csharp Funktiot Lämpötilan muunnin\obj\Debug\Csharp Funktiot Lämpötilan muunnin.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Funktiot Lämpötilan muunnin\Csharp Funktiot Lämpötilan muunnin\obj\Debug\Csharp Funktiot Lämpötilan muunnin.pdb
