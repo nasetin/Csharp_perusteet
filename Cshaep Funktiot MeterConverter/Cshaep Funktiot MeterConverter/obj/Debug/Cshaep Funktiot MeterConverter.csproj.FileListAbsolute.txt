@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Cshaep Funktiot MeterConverter\Cshaep Funktiot MeterConverter\bin\Debug\Cshaep Funktiot MeterConverter.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Cshaep Funktiot MeterConverter\Cshaep Funktiot MeterConverter\bin\Debug\Cshaep Funktiot MeterConverter.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Cshaep Funktiot MeterConverter\Cshaep Funktiot MeterConverter\bin\Debug\Cshaep Funktiot MeterConverter.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Cshaep Funktiot MeterConverter\Cshaep Funktiot MeterConverter\obj\Debug\Cshaep Funktiot MeterConverter.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Cshaep Funktiot MeterConverter\Cshaep Funktiot MeterConverter\obj\Debug\Cshaep Funktiot MeterConverter.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Cshaep Funktiot MeterConverter\Cshaep Funktiot MeterConverter\obj\Debug\Cshaep Funktiot MeterConverter.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Cshaep Funktiot MeterConverter\Cshaep Funktiot MeterConverter\obj\Debug\Cshaep Funktiot MeterConverter.pdb

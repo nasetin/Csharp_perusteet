@@ -24,9 +24,25 @@ namespace Cshaep_Funktiot_MeterConverter
             return meters / 1000;
         }
 
-        // Loput metodit....
+        public static double ToDecimeter(double meters)
+        {
+            return meters * 10;
+        }
 
+        public static double ToInch(double meters)
+        {
+            return meters * 39.370;
+        }
 
+        public static double ToFoot(double meters)
+        {
+            return meters * 3.2808;
+        }
+
+        public static double ToYard(double meters)
+        {
+            return meters * 1.0936;
+        }
 
     }
 }
