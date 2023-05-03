@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp korttipeli harjoitus\Csharp korttipeli harjoitus\bin\Debug\Csharp korttipeli harjoitus.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp korttipeli harjoitus\Csharp korttipeli harjoitus\bin\Debug\Csharp korttipeli harjoitus.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp korttipeli harjoitus\Csharp korttipeli harjoitus\bin\Debug\Csharp korttipeli harjoitus.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp korttipeli harjoitus\Csharp korttipeli harjoitus\obj\Debug\Csharp korttipeli harjoitus.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp korttipeli harjoitus\Csharp korttipeli harjoitus\obj\Debug\Csharp korttipeli harjoitus.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp korttipeli harjoitus\Csharp korttipeli harjoitus\obj\Debug\Csharp korttipeli harjoitus.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp korttipeli harjoitus\Csharp korttipeli harjoitus\obj\Debug\Csharp korttipeli harjoitus.pdb
