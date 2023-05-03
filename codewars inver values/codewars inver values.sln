@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codewars inver values", "codewars inver values\codewars inver values.csproj", "{52257778-D16B-4187-BD0D-51DF69D84388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52257778-D16B-4187-BD0D-51DF69D84388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52257778-D16B-4187-BD0D-51DF69D84388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52257778-D16B-4187-BD0D-51DF69D84388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52257778-D16B-4187-BD0D-51DF69D84388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10848013-73E4-4B94-9A1F-7129004B69C9}
+	EndGlobalSection
+EndGlobal
