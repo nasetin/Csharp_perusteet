@@ -62,10 +62,12 @@ namespace Csharp_tutorial_youtube_3_4
 
             //}
 
+
             // Buildin an exponent method______________________________
 
+            //Console.WriteLine(GetPow(4, 3));
 
-            // Console.WriteLine(GetPow(3, 2));
+
 
             // 2d Arrays_______________________________________
 
@@ -86,15 +88,51 @@ namespace Csharp_tutorial_youtube_3_4
              lol
             lol
 
-            Console.WriteLine("Comments are fun");
+            Console.WriteLine("Comments are fun"); 
              */
 
-            // Exception handling
+            // Exception handling____________________________________
+
+            //try
+            //{
+            //    Console.Write("Enter a number: ");
+            //    int num1 = Convert.ToInt32(Console.ReadLine());
+            //    Console.Write("Enter another number: ");
+            //    int num2 = Convert.ToInt32(Console.ReadLine());
+
+            //    Console.WriteLine(num1 / num2);
+            //}
+            //catch(DivideByZeroException e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //}
+            //catch(FormatException e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //}
+
+
+
+            // Classes and objeckts___________________________________
+
+            Book book1 = new Book();
+            book1.title = "Harry Potter";
+            book1.author = "JK Rowling";
+            book1.pages = 400;
+
+            Book book2 = new Book();
+            book2.title = "Lord Of the rings";
+            book2.author = "Tolkien";
+            book2.pages = 700;
+
+            Console.WriteLine(book2.title);
 
 
             Console.ReadKey();
         }
 
+
+        // Buildin an exponent method______________________________
         //static int GetPow(int baseNum, int powNum)
         //{
         //    int result = 1;
@@ -107,6 +145,9 @@ namespace Csharp_tutorial_youtube_3_4
 
         //    return result;
         //}
+
+               
+
 
     }
 }
