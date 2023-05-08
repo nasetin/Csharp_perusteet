@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codewars csharp kuutio", "codewars csharp kuutio\codewars csharp kuutio.csproj", "{37B0226C-1495-47D6-A639-C84D2B5CABDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37B0226C-1495-47D6-A639-C84D2B5CABDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B0226C-1495-47D6-A639-C84D2B5CABDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B0226C-1495-47D6-A639-C84D2B5CABDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B0226C-1495-47D6-A639-C84D2B5CABDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE1B638A-E607-4CE8-8484-98614396D6F0}
+	EndGlobalSection
+EndGlobal

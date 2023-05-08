@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Päivän11HarjoitusBensankulutus\Päivän11HarjoitusBensankulutus\bin\Debug\Päivän11HarjoitusBensankulutus.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Päivän11HarjoitusBensankulutus\Päivän11HarjoitusBensankulutus\bin\Debug\Päivän11HarjoitusBensankulutus.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Päivän11HarjoitusBensankulutus\Päivän11HarjoitusBensankulutus\bin\Debug\Päivän11HarjoitusBensankulutus.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Päivän11HarjoitusBensankulutus\Päivän11HarjoitusBensankulutus\obj\Debug\Päivän11HarjoitusBensankulutus.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Päivän11HarjoitusBensankulutus\Päivän11HarjoitusBensankulutus\obj\Debug\Päivän11HarjoitusBensankulutus.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Päivän11HarjoitusBensankulutus\Päivän11HarjoitusBensankulutus\obj\Debug\Päivän11HarjoitusBensankulutus.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Päivän11HarjoitusBensankulutus\Päivän11HarjoitusBensankulutus\obj\Debug\Päivän11HarjoitusBensankulutus.pdb

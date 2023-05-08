@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\codewars last digits of a number\codewars last digits of a number\bin\Debug\codewars last digits of a number.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\codewars last digits of a number\codewars last digits of a number\bin\Debug\codewars last digits of a number.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\codewars last digits of a number\codewars last digits of a number\bin\Debug\codewars last digits of a number.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\codewars last digits of a number\codewars last digits of a number\obj\Debug\codewars last digits of a number.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\codewars last digits of a number\codewars last digits of a number\obj\Debug\codewars last digits of a number.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\codewars last digits of a number\codewars last digits of a number\obj\Debug\codewars last digits of a number.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\codewars last digits of a number\codewars last digits of a number\obj\Debug\codewars last digits of a number.pdb

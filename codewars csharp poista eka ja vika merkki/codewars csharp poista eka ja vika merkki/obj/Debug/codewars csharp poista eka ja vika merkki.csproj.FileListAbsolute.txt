@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\codewars csharp poista eka ja vika merkki\codewars csharp poista eka ja vika merkki\bin\Debug\codewars csharp poista eka ja vika merkki.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\codewars csharp poista eka ja vika merkki\codewars csharp poista eka ja vika merkki\bin\Debug\codewars csharp poista eka ja vika merkki.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\codewars csharp poista eka ja vika merkki\codewars csharp poista eka ja vika merkki\bin\Debug\codewars csharp poista eka ja vika merkki.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\codewars csharp poista eka ja vika merkki\codewars csharp poista eka ja vika merkki\obj\Debug\codewars csharp poista eka ja vika merkki.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\codewars csharp poista eka ja vika merkki\codewars csharp poista eka ja vika merkki\obj\Debug\codewars csharp poista eka ja vika merkki.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\codewars csharp poista eka ja vika merkki\codewars csharp poista eka ja vika merkki\obj\Debug\codewars csharp poista eka ja vika merkki.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\codewars csharp poista eka ja vika merkki\codewars csharp poista eka ja vika merkki\obj\Debug\codewars csharp poista eka ja vika merkki.pdb

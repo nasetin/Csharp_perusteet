@@ -18,6 +18,12 @@ namespace Csharp_funktiot_pinta_alat_ja_tilavuudet
 
             Square squareTwo = new Square(1, 2);
 
+            Triangle triangleOne = new Triangle(2, 5);
+            Console.WriteLine($"Area of the triangle one is: {triangleOne.Area()}");
+            Console.WriteLine($"Perimeter of the triangle one is: {triangleOne.Perimeter()}");
+
+            Console.WriteLine();
+            Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
 
         }
