@@ -21,7 +21,7 @@ namespace Csharp_yt_tutorial_4_4
 
         public bool HasHonors()
         {
-            if (gpa >= 3.5)
+            if (gpa >= 2.5)
             {
                 return true;
             }
