@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{83C59135-2AFC-416E-A0E8-6D52F9AA2CEF}</ProjectGuid>
+    <ProjectGuid>{4BF4430E-56BB-4942-9856-9873395EC60A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Csharp_tutorial_youtube_3_4</RootNamespace>
-    <AssemblyName>Csharp tutorial youtube 3!4</AssemblyName>
+    <RootNamespace>Csharp_yt_tutorial_dotnet</RootNamespace>
+    <AssemblyName>Csharp yt tutorial dotnet</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Book.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

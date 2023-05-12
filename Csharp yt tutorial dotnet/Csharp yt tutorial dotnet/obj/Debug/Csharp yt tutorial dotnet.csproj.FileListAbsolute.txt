@@ -1,0 +1,7 @@
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp yt tutorial dotnet\Csharp yt tutorial dotnet\bin\Debug\Csharp yt tutorial dotnet.exe.config
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp yt tutorial dotnet\Csharp yt tutorial dotnet\bin\Debug\Csharp yt tutorial dotnet.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp yt tutorial dotnet\Csharp yt tutorial dotnet\bin\Debug\Csharp yt tutorial dotnet.pdb
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp yt tutorial dotnet\Csharp yt tutorial dotnet\obj\Debug\Csharp yt tutorial dotnet.csproj.AssemblyReference.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp yt tutorial dotnet\Csharp yt tutorial dotnet\obj\Debug\Csharp yt tutorial dotnet.csproj.CoreCompileInputs.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp yt tutorial dotnet\Csharp yt tutorial dotnet\obj\Debug\Csharp yt tutorial dotnet.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp yt tutorial dotnet\Csharp yt tutorial dotnet\obj\Debug\Csharp yt tutorial dotnet.pdb
