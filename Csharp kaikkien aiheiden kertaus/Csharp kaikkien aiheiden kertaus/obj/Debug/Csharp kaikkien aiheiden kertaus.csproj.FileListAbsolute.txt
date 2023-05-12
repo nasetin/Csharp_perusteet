@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp kaikkien aiheiden kertaus\Csharp kaikkien aiheiden kertaus\bin\Debug\Csharp kaikkien aiheiden kertaus.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp kaikkien aiheiden kertaus\Csharp kaikkien aiheiden kertaus\bin\Debug\Csharp kaikkien aiheiden kertaus.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp kaikkien aiheiden kertaus\Csharp kaikkien aiheiden kertaus\bin\Debug\Csharp kaikkien aiheiden kertaus.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp kaikkien aiheiden kertaus\Csharp kaikkien aiheiden kertaus\obj\Debug\Csharp kaikkien aiheiden kertaus.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp kaikkien aiheiden kertaus\Csharp kaikkien aiheiden kertaus\obj\Debug\Csharp kaikkien aiheiden kertaus.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp kaikkien aiheiden kertaus\Csharp kaikkien aiheiden kertaus\obj\Debug\Csharp kaikkien aiheiden kertaus.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp kaikkien aiheiden kertaus\Csharp kaikkien aiheiden kertaus\obj\Debug\Csharp kaikkien aiheiden kertaus.pdb
