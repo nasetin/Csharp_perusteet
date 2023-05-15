@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B44543E7-3C95-46D9-99A1-50EB9C55303B}</ProjectGuid>
+    <ProjectGuid>{3C941D47-BFF9-4CF3-96F9-7D8E4BEFF328}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Csharp_kaikkien_aiheiden_kertaus</RootNamespace>
-    <AssemblyName>Csharp kaikkien aiheiden kertaus</AssemblyName>
+    <RootNamespace>funktio_ja_luokka_kertausta</RootNamespace>
+    <AssemblyName>funktio ja luokka kertausta</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HirsiPuu.cs" />
+    <Compile Include="Dice.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

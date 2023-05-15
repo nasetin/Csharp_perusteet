@@ -1,0 +1,7 @@
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\funktio ja luokka kertausta\funktio ja luokka kertausta\bin\Debug\funktio ja luokka kertausta.exe.config
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\funktio ja luokka kertausta\funktio ja luokka kertausta\bin\Debug\funktio ja luokka kertausta.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\funktio ja luokka kertausta\funktio ja luokka kertausta\bin\Debug\funktio ja luokka kertausta.pdb
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\funktio ja luokka kertausta\funktio ja luokka kertausta\obj\Debug\funktio ja luokka kertausta.csproj.AssemblyReference.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\funktio ja luokka kertausta\funktio ja luokka kertausta\obj\Debug\funktio ja luokka kertausta.csproj.CoreCompileInputs.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\funktio ja luokka kertausta\funktio ja luokka kertausta\obj\Debug\funktio ja luokka kertausta.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\funktio ja luokka kertausta\funktio ja luokka kertausta\obj\Debug\funktio ja luokka kertausta.pdb
