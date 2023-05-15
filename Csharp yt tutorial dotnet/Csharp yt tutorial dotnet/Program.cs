@@ -47,8 +47,8 @@ namespace Csharp_yt_tutorial_dotnet
             //Console.WriteLine(result);
             //Console.WriteLine(songLyrics.Contains("greetings"));
 
-
-
+            decimal gradePointAverage = 3.99872831M;
+            Console.WriteLine(gradePointAverage);
             Console.ReadKey();
         }
     }
