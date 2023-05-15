@@ -61,14 +61,16 @@ namespace Csharp_kaikkien_aiheiden_kertaus
                 if (hiddenWord == randomWord)
                 {
                     Console.WriteLine("Arvasit sanan oikein! Voitit pelin!");
+                    Console.WriteLine();
                     break;
                 }
             }
 
             if (attempts == 0)
             {
-                Console.WriteLine("HIRSIPUU KUTSUUU hävisitpelin!");
+                Console.WriteLine("HIRSIPUU KUTSUUU HÄVISIT PELIN!");
                 Console.WriteLine($"Oikea sana oli: {randomWord}");
+                Console.WriteLine();
             }
 
         }
