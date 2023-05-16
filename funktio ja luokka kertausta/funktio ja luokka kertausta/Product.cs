@@ -25,7 +25,7 @@ namespace funktio_ja_luokka_kertausta
             // "Haetaan" tietokannasta data
             Id = rng.Next();
             Name = name;
-            Price = Convert.ToDecimal(rng.NextDouble() * 100); 
+            Price = Math.Round(Convert.ToDecimal(rng.NextDouble() * 100), 2); 
         }
     }
 }
