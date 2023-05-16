@@ -20,6 +20,7 @@ namespace Csharp_kaikkien_aiheiden_kertaus
                 Console.WriteLine("2. EXIT");
                 Console.Write("Syötä valintasi: ");
                 string choice = Console.ReadLine();
+                Console.WriteLine();
 
                 switch (choice)
                 {

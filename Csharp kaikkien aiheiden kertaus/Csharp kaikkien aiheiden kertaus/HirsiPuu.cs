@@ -29,7 +29,7 @@ namespace Csharp_kaikkien_aiheiden_kertaus
             while (attempts > 0)
             {
 
-                Console.WriteLine("Arvaa sana: " + hiddenWord);
+                Console.WriteLine("Arvaa suomen rakastetuimman veljes trion veljen nimi: " + hiddenWord);
                 Console.WriteLine($"Arvauksia jäljellä {attempts}");
                 Console.Write("Syötä kirjain arvaus: ");
                 char userGuess = Console.ReadKey().KeyChar;
@@ -60,19 +60,18 @@ namespace Csharp_kaikkien_aiheiden_kertaus
 
                 if (hiddenWord == randomWord)
                 {
-                    Console.WriteLine("Arvasit sanan oikein! Voitit pelin!");
+                    Console.WriteLine("Arvasit veljen oikein! Voitit pelin!");
+                    Console.WriteLine("Arvotonta kissankultaa minä sain!!!");
+                    Console.WriteLine("Sen tiedän nyt mä vain!!");
+                    Console.WriteLine("Petollista kissankultaa kiiltävää!!!!!!");                    
                     Console.WriteLine();
                     break;
                 }
             }
 
-            if (attempts == 0)
-            {
-                Console.WriteLine("HIRSIPUU KUTSUUU HÄVISIT PELIN!");
-                Console.WriteLine($"Oikea sana oli: {randomWord}");
-                Console.WriteLine();
-            }
-
+            string gameOver = (attempts == 0) ? "Hävisit pelin. Oikea veljes oli: " + randomWord : "";
+            Console.WriteLine(gameOver);
+            Console.WriteLine();
         }
     }
 
