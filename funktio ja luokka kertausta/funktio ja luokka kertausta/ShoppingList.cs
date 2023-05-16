@@ -33,5 +33,13 @@ namespace funktio_ja_luokka_kertausta
             Products.Add(temp);
             Sum += temp.Price; 
         }
+
+        public void PrintProduct()
+        {
+            for (int i = 0; i < Products.Count; i++)
+            {
+                Console.WriteLine($"{i+1}. {Products[i].Name}\t{Products[i].Price}");
+            }
+        }
     }
 }

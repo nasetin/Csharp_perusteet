@@ -35,27 +35,49 @@ namespace funktio_ja_luokka_kertausta
             // Suunnittelun tapa menetelmät
             // Waterfall - Mini/Agile waterfall(scrum) - Agile(pari ohjelmointi)
 
+            bool userExitsProductsLoop = false;
+
             do // Käyttäjä lisää ostoksia
             {
                 Console.Clear();
                 Console.WriteLine($"Valittu kauppa on {newOrder.ShopName}");
                 Console.WriteLine();
 
+                // Näytetään valitut tuotteet
+                // 1. Nimi Hinta
+                // Ei päästä suoraan ShoppingList objektin private listaan käsiksi
+                // 1. vaihto ehto on: ShoppingList.GetProducts(); <- palauttaa listan tuotteista ja
+                // se käydään läpi täällä.
+                // 2. vaihto ehto on : ShoppingList.PrintProducts(); <- Tulostaa tuottee  consoliin suoraan                                          
+                newOrder.PrintProduct();
+
+                Console.WriteLine();
                 Console.Write("Syötä tuote ja lukumäärä(esim. maito, 3): ");
                 string input = Console.ReadLine();
-                string[] splitInput = input.Split(',');
-                int ammount = int.Parse(splitInput[1].Trim());
 
-                //Lisätään tuote listaan käyttäjän syöttämän luvun verran
-                for (int i = 1; i <= ammount; i++)
+                if (input != "") // Tallennetaan tuote, jos käyttäjä on syöttänyt jotakin
                 {
-                    newOrder.AddProduct(splitInput[0]);
+                    string[] splitInput = input.Split(',');
+                    int ammount = int.Parse(splitInput[1].Trim());
+
+                    //Lisätään tuote listaan käyttäjän syöttämän luvun verran
+                    for (int i = 1; i <= ammount; i++)
+                    {
+                        newOrder.AddProduct(splitInput[0]);
+                    }
+                }
+                else // Kun input on tyhjä, lopetetaan silmukka
+                {
+                    userExitsProductsLoop = true;
                 }
 
 
-            } while (true); // TODO this condition
+            } while (userExitsProductsLoop != true);
 
-            Console.ReadKey();
+            // Näytetään summa käyttäjälle
+
+            Console.WriteLine();
+            Console.WriteLine($"Ostoksien summa: {newOrder.Sum}");
         }
     }
 
