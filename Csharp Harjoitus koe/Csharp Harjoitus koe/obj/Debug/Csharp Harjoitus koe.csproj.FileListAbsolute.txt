@@ -1,0 +1,7 @@
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Harjoitus koe\Csharp Harjoitus koe\bin\Debug\Csharp Harjoitus koe.exe.config
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Harjoitus koe\Csharp Harjoitus koe\bin\Debug\Csharp Harjoitus koe.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Harjoitus koe\Csharp Harjoitus koe\bin\Debug\Csharp Harjoitus koe.pdb
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Harjoitus koe\Csharp Harjoitus koe\obj\Debug\Csharp Harjoitus koe.csproj.AssemblyReference.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Harjoitus koe\Csharp Harjoitus koe\obj\Debug\Csharp Harjoitus koe.csproj.CoreCompileInputs.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Harjoitus koe\Csharp Harjoitus koe\obj\Debug\Csharp Harjoitus koe.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Harjoitus koe\Csharp Harjoitus koe\obj\Debug\Csharp Harjoitus koe.pdb
