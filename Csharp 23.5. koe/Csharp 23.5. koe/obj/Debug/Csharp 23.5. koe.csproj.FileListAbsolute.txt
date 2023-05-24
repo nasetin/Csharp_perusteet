@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp 23.5. koe\Csharp 23.5. koe\bin\Debug\Csharp_23._5.koe.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp 23.5. koe\Csharp 23.5. koe\bin\Debug\Csharp_23._5.koe.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp 23.5. koe\Csharp 23.5. koe\bin\Debug\Csharp_23._5.koe.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp 23.5. koe\Csharp 23.5. koe\obj\Debug\Csharp 23.5. koe.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp 23.5. koe\Csharp 23.5. koe\obj\Debug\Csharp 23.5. koe.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp 23.5. koe\Csharp 23.5. koe\obj\Debug\Csharp_23._5.koe.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp 23.5. koe\Csharp 23.5. koe\obj\Debug\Csharp_23._5.koe.pdb

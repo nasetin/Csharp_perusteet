@@ -1,0 +1,7 @@
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp harjotus koe yhessä\Csharp harjotus koe yhessä\bin\Debug\Csharp harjotus koe yhessä.exe.config
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp harjotus koe yhessä\Csharp harjotus koe yhessä\bin\Debug\Csharp harjotus koe yhessä.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp harjotus koe yhessä\Csharp harjotus koe yhessä\bin\Debug\Csharp harjotus koe yhessä.pdb
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp harjotus koe yhessä\Csharp harjotus koe yhessä\obj\Debug\Csharp harjotus koe yhessä.csproj.AssemblyReference.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp harjotus koe yhessä\Csharp harjotus koe yhessä\obj\Debug\Csharp harjotus koe yhessä.csproj.CoreCompileInputs.cache
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp harjotus koe yhessä\Csharp harjotus koe yhessä\obj\Debug\Csharp harjotus koe yhessä.exe
+C:\Users\sasu.hujanen\Documents\GitHub\Csharpperusteet\Csharp harjotus koe yhessä\Csharp harjotus koe yhessä\obj\Debug\Csharp harjotus koe yhessä.pdb
