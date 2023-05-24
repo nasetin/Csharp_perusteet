@@ -8,5 +8,11 @@ namespace Csharp_Harjoitus_koe
 {
     class Topping
     {
+        public string Name { get; }
+
+        public Topping (string name)
+        {
+            Name = name;
+        }
     }
 }
