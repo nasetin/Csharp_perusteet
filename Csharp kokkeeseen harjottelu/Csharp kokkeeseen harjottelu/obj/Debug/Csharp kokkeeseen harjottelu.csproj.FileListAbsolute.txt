@@ -1,0 +1,7 @@
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp kokkeeseen harjottelu\Csharp kokkeeseen harjottelu\bin\Debug\Csharp kokkeeseen harjottelu.exe.config
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp kokkeeseen harjottelu\Csharp kokkeeseen harjottelu\bin\Debug\Csharp kokkeeseen harjottelu.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp kokkeeseen harjottelu\Csharp kokkeeseen harjottelu\bin\Debug\Csharp kokkeeseen harjottelu.pdb
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp kokkeeseen harjottelu\Csharp kokkeeseen harjottelu\obj\Debug\Csharp kokkeeseen harjottelu.csproj.AssemblyReference.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp kokkeeseen harjottelu\Csharp kokkeeseen harjottelu\obj\Debug\Csharp kokkeeseen harjottelu.csproj.CoreCompileInputs.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp kokkeeseen harjottelu\Csharp kokkeeseen harjottelu\obj\Debug\Csharp kokkeeseen harjottelu.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp kokkeeseen harjottelu\Csharp kokkeeseen harjottelu\obj\Debug\Csharp kokkeeseen harjottelu.pdb
