@@ -41,40 +41,67 @@ namespace Csharp_23._5.koe
             // Sukunimestä 5 kirjainta
             // Etunimestä 3 ensimmäistä
             // string result = str.Substring(0,5);!!!!!!!!
-            List<JavelinThrow> newThrow = new List<JavelinThrow>();
 
-            Console.Write("Syötä heittäjän nimi: ");
-            string athleteName = Console.ReadLine();
-            Console.Write("Syötä heittäjän metrit: ");
-            int meters = int.Parse(Console.ReadLine());
-            Console.Write("Syötä heittäjän sentit: ");
-            int centimeters = int.Parse(Console.ReadLine());
+            //__________________________________________________________
 
-            newThrow.Add(new JavelinThrow(1, athleteName, meters, centimeters));
+            //List<JavelinThrow> newThrow = new List<JavelinThrow>();
 
-            List<Product> products = new List<Product>();
+            //Console.Write("Syötä heittäjän nimi: ");
+            //string athleteName = Console.ReadLine();
+            //Console.Write("Syötä heittäjän metrit: ");
+            //int meters = int.Parse(Console.ReadLine());
+            //Console.Write("Syötä heittäjän sentit: ");
+            //int centimeters = int.Parse(Console.ReadLine());
 
-            Console.Write("Syötä tuotteen nimi: ");
-            string name = Console.ReadLine();
+            //newThrow.Add(new JavelinThrow(1, athleteName, meters, centimeters));
 
-            
+            //List<Product> products = new List<Product>();
 
+            //Console.Write("Syötä tuotteen nimi: ");
+            //string name = Console.ReadLine();
 
+            //___________________________________________________________________
 
+            List<Product> productLista = new List<Product>();
+            Product newProduct;
+            int productId = 1;
+            decimal discountedPercentage = 0.2m;
+
+            while (productId <= 3)
+            {
+                newProduct = new Product();
+                Console.Write("Syötä tuotteen nimi: ");
+                newProduct.Name = Console.ReadLine();
+
+                Console.Write("Syötä tuotteen hinta: ");
+                newProduct.Price = decimal.Parse(Console.ReadLine());
+
+                newProduct.Id = productId;
+
+                productLista.Add(newProduct);
+
+                decimal aleHinta = newProduct.CalculateDiscountedPrice(discountedPercentage);
+
+                productId++;
+                Console.WriteLine($"Tuote: {newProduct.Id}");
+                Console.WriteLine($"Tuotteen nimi on: {newProduct.Name}");
+                Console.WriteLine($"Hinta 20% alennuksen jälkeen on: {aleHinta}");
+                Console.WriteLine();
+            }
             Console.ReadKey();
         } // main!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
- 
-        private static string lastNameCut(string lastName)
-        {
-            string result1 = lastName.Substring(0, 5);
-            return result1;
-        }
-        private static string firstNameCut(string firstname)
-        {
-            string result2 = firstname.Substring(0, 3);
-            return result2;
-        }
 
 
+
+        //private static string lastNameCut(string lastName, string firstname)
+        //{
+        //    string result1 = lastName.Substring(0, 5);
+        //    string result2 = firstname.Substring(0, 3);
+        //    return result1+result2;
+        //}
+        //private static string firstNameCut(string firstname)
+        //{
+        //    return result2;
+        //}
     }
 }

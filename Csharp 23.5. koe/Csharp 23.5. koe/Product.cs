@@ -21,7 +21,21 @@ namespace Csharp_23._5.koe
             Price = price;
 
         }
+        public Product()
+        {
 
+        }
+
+        // 20 x 0.2 = 4 ja 20 - 4 = 16 <- lopullinen hinta
+        public decimal CalculateDiscountedPrice(decimal discountPercentage)
+        {
+
+            decimal ale = Price * discountPercentage;
+            decimal finalPrice = Price - ale;
+
+            return finalPrice;
+
+        }
 
     }
 }
