@@ -1,0 +1,7 @@
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Youtube tutorial Brackeys\Csharp Youtube tutorial Brackeys\bin\Debug\Csharp Youtube tutorial Brackeys.exe.config
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Youtube tutorial Brackeys\Csharp Youtube tutorial Brackeys\bin\Debug\Csharp Youtube tutorial Brackeys.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Youtube tutorial Brackeys\Csharp Youtube tutorial Brackeys\bin\Debug\Csharp Youtube tutorial Brackeys.pdb
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Youtube tutorial Brackeys\Csharp Youtube tutorial Brackeys\obj\Debug\Csharp Youtube tutorial Brackeys.csproj.AssemblyReference.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Youtube tutorial Brackeys\Csharp Youtube tutorial Brackeys\obj\Debug\Csharp Youtube tutorial Brackeys.csproj.CoreCompileInputs.cache
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Youtube tutorial Brackeys\Csharp Youtube tutorial Brackeys\obj\Debug\Csharp Youtube tutorial Brackeys.exe
+C:\Users\sasss\Documents\GitHub\Csharpperusteet\Csharp Youtube tutorial Brackeys\Csharp Youtube tutorial Brackeys\obj\Debug\Csharp Youtube tutorial Brackeys.pdb
